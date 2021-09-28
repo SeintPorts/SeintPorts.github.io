@@ -1,0 +1,50 @@
+Cajas
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#Red
+{
+    margin: left;
+    margin-top: 0;
+    width: 5445px;
+    height: 500px;
+    background-color: red;
+}
+
+div#Orange
+{
+    margin: 0;
+    margin-top: 10px;
+    width: 1800px;
+    height: 1610px;
+    background-color: orange;
+}
+
+div#Yellow
+{
+    margin: 1810;
+    margin-top: 10px;
+    width: 1800px;
+    height: 1610px;
+    background-color: yellow;
+}
+
+div#Green
+{
+    margin: 1815;
+    margin-top: 10px;
+    width: 1820px;
+    height: 1610px;
+    background-color: green;
+}
+
+div#Blue
+{
+    margin: 0;
+    margin-top: 10px;
+    width: 5445px;
+    height: 500px;
+    background-color: blue;
+}
